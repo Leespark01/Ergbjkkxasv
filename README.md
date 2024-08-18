@@ -12,11 +12,13 @@ This project is a brief description of the purpose and goals of Ergbjkkasv. Add 
 Follow these steps to get started with the project:
 
 ```bash
-# Clone the repository
+# git add index.html
+git commit -m "Add index.html as the entry point for GitHub Pages"
+git push origin main the repository
 git clone https://github.com/Leespark01/Ergbjkkasv.git
 
 # Navigate to the project directory
 cd Ergbjkkasv
 
 # Install dependencies (if applicable)
-npm install
+npm install go
